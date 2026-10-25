@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.git
+*.log
+*.docx
+portfolio.html
+Dockerfile
+docker-compose.yml
